@@ -1,3 +1,3 @@
 # Usage
 
-https://cdn.jsdelivr.github.com/anbudev/cdn/{path}/{file}.{ext}
+http://cdn.jsdelivr.net/gh/anbudev/cdn/{path-to-filename}.{ext}
